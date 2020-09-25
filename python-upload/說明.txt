@@ -1,1 +1,5 @@
 利用python 將想上傳的資料更新再
+1.金鑰
+2.python程式碼
+3.google試算表連結 https://docs.google.com/spreadsheets/d/1uDm7pTQwIvtmDfEQmwlS6Rf_B0QIa2YxcFzItdX80d4/edit#gid=111404023
+4.google試算表的共享畫面
